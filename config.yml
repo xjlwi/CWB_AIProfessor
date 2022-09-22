@@ -1,0 +1,4 @@
+output_dir: '.'
+project_name: AiProfessor
+repo_name: aiprof
+python_package: aiprof
